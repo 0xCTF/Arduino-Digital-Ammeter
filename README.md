@@ -22,6 +22,12 @@ Build a digital ammeter using Arduino
 
 #### Components Images
 
-https://i.imgur.com/ltPUKSk.jpg
-https://i.imgur.com/v4Heqgf.jpg
-https://i.imgur.com/yoz5a0Z.jpg
+![](https://i.imgur.com/ltPUKSk.jpg)
+
+![](https://i.imgur.com/v4Heqgf.jpg)
+
+![](https://i.imgur.com/yoz5a0Z.jpg)
+
+
+#### LICENSE
+> © [MIT](https://github.com/0xCTF/FindMyResults/blob/master/LICENSE) | 2019, 0xCTF/FindMyResults
