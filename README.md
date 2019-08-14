@@ -5,7 +5,7 @@
 #### Project Objectif
 Build a digital ammeter using Arduino
 
-## Used Components
+#### Used Components
 * Breadboard
 * Jump wires
 * 7 segments display
