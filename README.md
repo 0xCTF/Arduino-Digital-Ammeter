@@ -2,7 +2,7 @@
 
 ---
 
-## Project Objectif
+#### Project Objectif
 Build a digital ammeter using Arduino
 
 ## Used Components
