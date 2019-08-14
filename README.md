@@ -6,3 +6,6 @@
 Build a digital ammeter using Arduino
 
 ## Used Components
+* Breadboard
+* Jump wires
+* 7 segments display
